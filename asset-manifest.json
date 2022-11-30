@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-crud-app-with-backend/static/css/main.6975e69c.css",
+    "main.js": "/react-crud-app-with-backend/static/js/main.8c82b5e0.js",
+    "index.html": "/react-crud-app-with-backend/index.html",
+    "main.6975e69c.css.map": "/react-crud-app-with-backend/static/css/main.6975e69c.css.map",
+    "main.8c82b5e0.js.map": "/react-crud-app-with-backend/static/js/main.8c82b5e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6975e69c.css",
+    "static/js/main.8c82b5e0.js"
+  ]
+}
